@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a Senior Web and Blockchain Developer
+## Hi there 👋, I'm a Senior Web, Blockchain Developer
 
 I'm a passionate full-stack web developer with over 10 years of experience building scalable, performant, and user-friendly applications. My journey has taken me from traditional web development into the cutting edge of decentralized technologies, where I now design and build secure, innovative blockchain solutions.
 
